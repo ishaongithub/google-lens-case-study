@@ -1,0 +1,34 @@
+img{
+    height:200px;
+    width:200px;
+    box-shadow: 10px 10px 18px rgb(0, 54, 99);
+    padding:5px;
+    margin:10px;
+}
+body{
+    background:url("background.gif");
+    border: dotted rgb(154, 210, 255);
+    border-width: 10px;
+    margin:10px;
+}
+.text_images_and_result{
+    background-color: rgb(154, 210, 255);
+    color:midnightblue;
+    width:550px;
+    font-family: 'Style Script', cursive;
+    border-radius: 20%;
+    margin:10px;
+}
+h1{
+    font-family: 'Style Script', cursive;
+    color:rgb(154, 210, 255);
+    font-weight: bold;
+}
+#img{
+    width:100px;
+    height: 100px;
+}
+#img_2{
+height:300px;
+width:500px;
+}
